@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">What\'s The Weather</string>
+    <string name="prompt_str">Enter a City...</string>
+    <string name="button_str">What's the weather?</string>
+</resources>
